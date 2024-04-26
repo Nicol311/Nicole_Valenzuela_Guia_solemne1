@@ -149,7 +149,6 @@ public class Ejercicios {
             }
             numero /= 10;
         }
-    
         System.out.println("\nLa suma de los dígitos pares del número ingresado es: " + suma);
     }
     
@@ -187,5 +186,4 @@ public class Ejercicios {
         }
         return numero;
     }
-
 }
